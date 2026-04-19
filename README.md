@@ -38,10 +38,22 @@ That's the only philosophy a real gamer-developer needs.
 The bug was never in the code.  
 The bug is in expecting the simulation to make any sense in the first place.
 
+
 ---
 
-### The Real Experience (facts + flavor, straight from the trenches)
+### Current GitHub Vibe Check + Trophies
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=foudhilriahi&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=foudhilriahi&theme=radical&hide_border=true" height="160" />
+  <!-- Gamer trophy animation layer -->
+  <img src="https://github-profile-trophy.vercel.app/?username=foudhilriahi&theme=radical&no-frame=true&margin-w=15" />
+</div>
+
+
+ ---
+
+ ### The Real Experience (facts + flavor, straight from the trenches)
 **Python Sorcerer – Recommendation System**  
 *Welyne* | Jun–Aug 2025  
 Cooked up the full analysis engine — dominance measures, morphological validation, category-to-clothing mapping.  
@@ -93,17 +105,6 @@ Learned the most important lesson early: people > processes... but the processes
 **Extras That Keep It Real**  
 JWT • WebSocket • TensorFlow Lite • REST APIs • Microservices • CI/CD • "it works on my machine" → Dockerized so it actually works everywhere
 
-</div>
-
----
-
-### Current GitHub Vibe Check + Trophies
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=foudhilriahi&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=foudhilriahi&theme=radical&hide_border=true" height="160" />
-  <!-- Gamer trophy animation layer -->
-  <img src="https://github-profile-trophy.vercel.app/?username=foudhilriahi&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 ---
