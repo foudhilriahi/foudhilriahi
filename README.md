@@ -6,8 +6,8 @@
 
   <br>
 
-  **NOT YOUR AVERAGE SOFTWARE ENGINEER**<br>
-  <i>Level 69 bug slayer in a glitching simulation. Big mind. Zero cap.</i>
+  **The more I hang around IT, the more I think I should've been a farmer.**<br>
+  <i>Probably future me is an incredibly talented developer. Present me keeps assigning him work.</i>
 
 
 
@@ -29,12 +29,10 @@
 
 ---
 
-###  The Manifesto
+###  Current objective:
 
-While most devs are busy farming LeetCode streaks and posting slide-deck tutorials for internet points, I am deep in the trenches architecting fault-tolerant realities.
-
-
-*Zero Fs given about gatekeeping. Maximum Fs given to bulletproof, maintainable code.*
+figure out who wrote this slop 
+git blame says it was me
 
 ---
 ---
